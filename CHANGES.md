@@ -9,6 +9,13 @@
 
 * Add support for json adapters in the bucklescript backend. (#153)
 
+* Add backend specific annotations (#187)
+
+* Support only yojson >= 1.7 (#188)
+
+* Fix code generation for polymorphic parameters with wrapped polymorphic types
+  (#191)
+
 2.0.0 (2018-05-31)
 ------------------
 
